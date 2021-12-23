@@ -1,0 +1,132 @@
+.navbar {
+  margin: 0px 50px 0;
+  padding: 50px 0 100px;
+  border-radius: 50px;
+}
+
+.navbar-brand {
+  padding: 0 40px;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.forms {
+  margin-top: 80px;
+}
+
+.search {
+  background: transparent;
+  border-radius: 50px;
+  margin-left: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  border: 2px solid white;
+  text-align: left;
+}
+
+.search:focus {
+  color: white;
+}
+
+::placeholder {
+  font-size: 20px;
+  color: white;
+}
+
+.top-right {
+  /* text-align: right; */
+  color: white;
+  margin-top: -110px;
+  margin-left: 800px;
+  /* width: 400px; */
+}
+
+/* .icon {
+  float: left;
+  margin-left: 500px;
+  size: 50px;
+}
+*/
+
+.quotes1 {
+  margin-top: -50px;
+  margin-left: 50px;
+}
+
+.quotes2 {
+  margin-left: 60px;
+  color: gainsboro;
+}
+
+.top {
+  background-image: url("https://www.cypressgreen.in/blog/wp-content/uploads/2021/03/food.jpg");
+  height: 550px;
+  /* width: 900px; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* border-radius: 100%; */
+  /* width: 500px; */
+  /* padding: 50px 50px; */
+  margin-top: -450px;
+}
+
+/* TESTIMONIAL SECTIONS */
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+#header2 {
+  /* font-family: "Montaga", serif; */
+  /* font-size: 2rem; */
+  /* font-weight: bold; */
+  line-height: 1.5;
+}
+
+.testimonial-img {
+  width: 30%;
+  /* height: 50%; */
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 5% 25%;
+}
+
+/* FOOTER SECTION */
+#footer {
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.social-icons {
+  margin: 20px 10px;
+}
+
+/* Special offer */
+.specialoff {
+  background-image: url("https://media.istockphoto.com/photos/bizarre-forms-of-white-powder-explosion-cloud-against-black-picture-id1017212854?k=20&m=1017212854&s=612x612&w=0&h=uvcoySSAgmRtVE5p6Y8we6z-Lneem3z1p_PqM-gfboE=");
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: -50px;
+}
+
+.sam-img {
+  opacity: 1;
+  width: 18%;
+  border-radius: 100%;
+  margin-top: 120px;
+  margin-left: 100px;
+  border: 2px solid white;
+  float: left;
+}
+
+.offer-text {
+  color: rgb(253, 249, 19);
+}
